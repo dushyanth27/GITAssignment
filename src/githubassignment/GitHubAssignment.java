@@ -26,5 +26,6 @@ public class GitHubAssignment {
         System.out.println("Chennakrishna Gonuguntla");
         System.out.println("Praneetha Vajjha");
         System.out.println("Shruthi Lella");
+        System.out.println("Tejeswara Reddy Pogula");
     }
 }
