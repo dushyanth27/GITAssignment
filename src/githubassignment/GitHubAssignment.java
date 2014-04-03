@@ -19,5 +19,6 @@ public class GitHubAssignment {
         System.out.println("SaiRupa Paladugu");
         System.out.println("Manasa Manne");
         System.out.println("Swathi Moosaramthota");
+        System.out.println("Sravyatha Vegesna");
     }
 }
