@@ -17,5 +17,6 @@ public class GitHubAssignment {
         // TODO code application logic here
         System.out.println("Dushyanth Parvathaneni");
         System.out.println("SaiRupa Paladugu");
+        System.out.println("Manasa Manne");
     }
 }
