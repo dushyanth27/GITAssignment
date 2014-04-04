@@ -29,5 +29,6 @@ public class GitHubAssignment {
         System.out.println("Tejeswara Reddy Pogula");
         System.out.println("Anil Reddy Garlapati");
         System.out.println("--BHANU PRANEETH KATHARI--");
+        System.out.println("Mallikarjuna Reddy Palempallinallappagari");
     }
 }
