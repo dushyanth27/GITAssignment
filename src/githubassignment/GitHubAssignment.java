@@ -32,5 +32,6 @@ public class GitHubAssignment {
         System.out.println("Mallikarjuna Reddy Palempallinallappagari");
         System.out.println("Ajay Reddy Dudipala");
         System.out.println("Meena Nalajala");
+        System.out.println("Anup Reddy Chinninti");
     }
 }
